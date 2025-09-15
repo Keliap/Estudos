@@ -1,0 +1,13 @@
+/*classes*/
+
+.paragrah{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
+/*Ids*/
+#exclusive-title{
+    background-color: brown;
+    color: burlywood;
+    padding: 10px;
+}
